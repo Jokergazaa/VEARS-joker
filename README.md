@@ -21,7 +21,7 @@ Anti Debugging
 * Git clone this repo
 * Change dir into the folder
 * The tool doesn't require any dependencies
-* Run python3 hellMaker.py
+* Run python3 VEARS-joker
 
 
 
@@ -29,6 +29,9 @@ Anti Debugging
 
 First, you need to create a raw shellcode using the C2 tool you prefer,
 then run the tool and enter the shellcode and Encryption key and the output filename.
+
+
+
 
 
 *Test
